@@ -2,17 +2,15 @@
 
 A mobile-first website concept for Street Eats Catering in Denton, Texas.
 
-## Preview
+## Run locally
 
-https://street-eats-denton.nicho0128.chatgpt.site
+Open `index.html` directly in a browser, or serve the repository folder with any static web server.
 
-## Structure
+## Files
 
-The deployable static site is in `dist/`.
-
-- `dist/index.html` — page content
-- `dist/styles.css` — responsive design and branding
-- `dist/script.js` — reveal animations
-- `dist/assets/street-eats-hero.jpg` — custom hero artwork
+- `index.html` — page content
+- `styles.css` — responsive design and branding
+- `script.js` — reveal animations
+- `assets/street-eats-hero.jpg` — optimized hero artwork
 
 Website concept by NTX Automation Co.

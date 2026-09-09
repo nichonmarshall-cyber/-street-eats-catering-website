@@ -13,6 +13,6 @@ The deployable static site is in `dist/`.
 - `dist/index.html` — page content
 - `dist/styles.css` — responsive design and branding
 - `dist/script.js` — reveal animations
-- `dist/assets/street-eats-hero.png` — custom hero artwork
+- `dist/assets/street-eats-hero.jpg` — custom hero artwork
 
 Website concept by NTX Automation Co.
